@@ -1,0 +1,9 @@
+agoprdd3o01-mgmt aries1 ag3aries
+agoprdd3o01-mgmt tidal1 ag3tidal
+agoprdd3o01-mgmt mpi ag3mpi
+agoprdd3o03-mgmt tibco3 ag3tibco
+agoprdd3o03-mgmt gpp3 ag3gpp
+agoprdd3o03-mgmt rcmprd3 ag3rcmprd
+agoprdd3o05-mgmt avtym5 ag3avtym
+agoprdd3o05-mgmt optprof5 ag3optprof
+agoprdd3o05-mgmt optinl5 ag3optinl

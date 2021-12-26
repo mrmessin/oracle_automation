@@ -1,0 +1,6 @@
+dtoprdd3o01-mgmt /u01/app/oracle/product/18.0.0.0/dbhome_1
+dtoprdd3o03-mgmt /u01/app/oracle/product/18.0.0.0/dbhome_1
+dtoprdd3o05-mgmt /u01/app/oracle/product/18.0.0.0/dbhome_1
+dtoprdd3o02-mgmt /u01/app/oracle/product/18.0.0.0/dbhome_1
+dtoprdd3o04-mgmt /u01/app/oracle/product/18.0.0.0/dbhome_1
+dtoprdd3o06-mgmt /u01/app/oracle/product/18.0.0.0/dbhome_1

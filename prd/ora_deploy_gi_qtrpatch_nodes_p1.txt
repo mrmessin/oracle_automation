@@ -1,0 +1,6 @@
+dtoprdd3o01-mgmt /u01/app/18.0.0.0/grid
+dtoprdd3o03-mgmt /u01/app/18.0.0.0/grid
+dtoprdd3o05-mgmt /u01/app/18.0.0.0/grid
+dtoprdd3o02-mgmt /u01/app/18.0.0.0/grid
+dtoprdd3o04-mgmt /u01/app/18.0.0.0/grid
+dtoprdd3o06-mgmt /u01/app/18.0.0.0/grid

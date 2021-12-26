@@ -1,0 +1,9 @@
+dtoprdd3o01-mgmt aries1 dt3aries
+dtoprdd3o01-mgmt tidal1 dt3tidal
+dtoprdd3o01-mgmt mpi dt3mpi
+dtoprdd3o03-mgmt tibco3 dt3tibco
+dtoprdd3o03-mgmt gpp3 dt3gpp
+dtoprdd3o03-mgmt rcmprd3 dt3rcmprd
+dtoprdd3o05-mgmt avtym5 dt3avtym
+dtoprdd3o05-mgmt optprof5 dt3optprof
+dtoprdd3o05-mgmt optinl5 dt3optinl
